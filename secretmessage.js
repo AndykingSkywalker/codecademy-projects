@@ -10,4 +10,4 @@ secretMessage.unshift('Programming');
 
 secretMessage.slice(6, 11, 'get', 'right', 'the', 'first', 'time');
 
-console.log(secretMessage.join());
+console.log(secretMessage.join(" "));
